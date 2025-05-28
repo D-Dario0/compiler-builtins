@@ -8,6 +8,14 @@ and this project adheres to
 
 ## [Unreleased]
 
+## [0.2.16](https://github.com/rust-lang/compiler-builtins/compare/libm-v0.2.15...libm-v0.2.16) - 2025-05-28
+
+### Other
+
+- Update `CmpResult` to use a pointer-sized return type
+- Clean up unused files
+- Fix `i256::MAX`
+
 ## [0.2.15](https://github.com/rust-lang/compiler-builtins/compare/libm-v0.2.14...libm-v0.2.15) - 2025-05-06
 
 ### Other
